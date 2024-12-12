@@ -4,6 +4,8 @@
     <span>Construindo seu Portfólio Front-end do Zero</span>
 </h1>
 
+Link Powerpoint slides: https://academiapme-my.sharepoint.com/:p:/g/personal/renato_dio_me/EYQYLYvZL3pJvpi1WPS3-qYBPnBJMz46SRRUtsU_nfDxkA?e=geih8D
+
 Repositório desenvolvido para fins didáticos, com a disponibilização de materiais de apoio para o lab **Construindo seu Portfólio Front-end do Zero** da [Digital Innovation One](https://www.dio.me/).
 
 [![Link do Lab](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/lab/construindo-seu-portfolio-front-end-do-zero/learning/81cbe4c1-6e9e-4ce3-be7d-412aef4efb24) 
